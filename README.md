@@ -22,3 +22,16 @@ garcom--"recebe o pedido"---comida
 vinho-."extende".-> comida
  
 ```
+## diagrama de classe
+### diagrama de classe
+```mermaid
+```
+classDiagram
+class veterinario{
+    %% atributos caracteristicas que serao
+    %% armazenadas no sistema
+    -cpf:string
+    %% metodos: acoes que serao desempenhadas
+    %% por essa entidade no sistema
++darcpf()string
+}
