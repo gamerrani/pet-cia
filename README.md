@@ -34,6 +34,7 @@ class veterinario{
     %% por essa entidade no sistema
 +darcpf()string
 }
+class animal
 
 ```
 
