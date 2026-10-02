@@ -25,7 +25,6 @@ vinho-."extende".-> comida
 ## diagrama de classe
 ### diagrama de classe
 ```mermaid
-```
 classDiagram
 class veterinario{
     %% atributos caracteristicas que serao
@@ -35,3 +34,8 @@ class veterinario{
     %% por essa entidade no sistema
 +darcpf()string
 }
+
+```
+
+
+
